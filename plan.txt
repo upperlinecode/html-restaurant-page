@@ -1,0 +1,27 @@
+Before getting started, you and your partner should spend some time brainstorming a plan for your restaurant page. Use this page to take notes and outline the content you will display on your page. 
+
+At minumum, your page should include:
+- An HTML shell (doctype, html, head, title, body tags)
+- At least two header elements (h1, h3, etc.)
+- At least one image
+- At least one paragraph element
+- At least one anchor (a) element linking to another page
+
+A rough template has been put together to help you get started, but feel free to update and make as many changes as you like. 
+
+SECTION 1 / Header
+- Restaurant name: 
+- Restaurant tagline or motto: 
+
+SECTION 2 / About
+- Style of food: At _____, we serve only the finest _____
+- About: 
+
+SECTION 3 / Menu
+- Menu item 1 name:
+- Menu item 1 description:
+- Menu item 1 price:
+
+- Menu item 2 name:
+- Menu item 2 description:
+- Menu item 2 price:
