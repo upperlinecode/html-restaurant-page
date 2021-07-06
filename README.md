@@ -2,8 +2,6 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/upperlinecode/html-restaurant-page)](https://repl.it/github/upperlinecode/html-restaurant-page)
 
-# Found Your Own Restaurant!
-
 ## CONTEXT & PURPOSE
 
 Up to this point you have learned the fundamentals of HTML and CSS. It's time to put those newly found skills to use. You and your partner will have time to plan and build your very own website using HTML and CSS. We've suggested a restaurant page, but it doesn't have to be that. If you have any other business ideas that you are excited about you are welcome to build a site around that as well. We just care that you exercise your creativity and use the knowledge you've acquired to build a static website. There are a few guidelines to get started, and once you've met the minimum requirements for this project we encourage you to add anything else you want to bring to life the page you envision. 
