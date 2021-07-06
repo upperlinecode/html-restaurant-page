@@ -1,5 +1,4 @@
-# Hello, and welcome to Glitch
-Glitch is a remote coding environment that lets us quickly spin up webpages with HTML, CSS, and JavaScript files.
+# HTML Restaurant Page
 
 ## Instructions:
 1. When you get to your breakout room, **have the partner whose birthday is soonest click the remix button**. You'll be the project owner. Once your remix loads (you may need to refresh) share that link with your partner in chat.
