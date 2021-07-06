@@ -25,7 +25,7 @@ Before diving into any code, it is always a good idea to start with a plan. Spen
 In addition to thinking about *what* you want to include on your page, you should also think about *how* you want to organize it. You are encouraged to group each piece of content in divs to segment your page. Giving each div an ID will help you keep your styling organized later on. 
 
 ### Setup
-To get set up, open the template in Repl.it or fork and clone the Github <a href="https://github.com/upperlinecode/html-restaurant-page">template repository</a> to make your own working copy. 
+To get set up, open the template in Repl.it or fork and clone this Github template repository to make your own working copy. 
 
 You and your partner will practice driver-navigator style pair programming to work on this project. Be sure to switch roles at least once as you work. 
 
